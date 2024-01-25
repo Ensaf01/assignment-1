@@ -1,0 +1,78 @@
+
+.banner1{
+   
+    background-image:url('../resources/Banner\ Image.png');
+    background: #070211, #07021100;
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+}
+
+
+.banner1-first-line{
+    
+    
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding:177px 530px 0px 530px ;
+    margin-bottom: 0px;
+    
+
+}
+.banner1-party{
+    color: #0b0b0b;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    margin-top:5px;
+    margin-left: 344px;
+   
+    
+}
+.read-color{
+    color: #F00; ;
+}
+.banner2-content{
+
+    /* width: 1600px;
+    height: 7335px;
+     */
+
+}
+
+#off{
+
+text-align: center;
+font-size: 88px;
+font-weight: 700;
+padding:120px 469px 0px 469px;
+margin-bottom: 20px;
+}
+#day{
+
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 3px;
+
+}
+#catagories{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0px;
+
+}
+#img{
+    width: 802.9px;
+    height: 500px;
+    padding: 50px 150px 0px 250px;
+    
+}
