@@ -217,8 +217,17 @@ margin-bottom: 0px;
     font-size: 20px;
     font-weight: 600;
     line-height: normal;
-    margin-top:-50px ;
+    margin-top:-50px ; 
 
-   
-  
+}
+/* footer part */
+
+.footers{
+display: flex;
+width: 1600px;
+height: 609px;
+background: #070211;
+}
+.incone{
+    vertical-align: center;
 }
