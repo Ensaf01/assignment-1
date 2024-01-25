@@ -127,3 +127,98 @@ margin-top: -350px;
 
 
 }
+
+/* main block */
+.main-header{
+    color: #F00;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;margin-top: 100px;
+}
+.main-focus{
+    color: #070211;
+    font-size: 35px;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: -15px;
+
+}
+.main-content{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width: 896px;
+    margin-top: 0px;
+}
+.pic-of-6{
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    vertical-align: center;
+    gap: 5px;
+
+}
+
+/*Subscribe Newsletter  */
+.main-footer{
+    width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+
+.email-pic{
+    width: 150px;
+    height: 150px;
+    margin-left: 585px;
+}
+.sub-header{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    /* margin-left: 404px; */
+
+}
+.subscrip-content{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width: 896px;
+    margin-left: 212px;
+}
+.input-give{
+width: 648px;
+margin-left: 336px;
+border-radius: 50px;
+height: 30px;
+margin-bottom: 0px;
+}
+
+/*  */
+
+
+.subscrib{
+    width: 200px;
+    height: 30px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(247, 245, 245);
+    margin-left: 790px;
+
+}
+.click-subs{
+    color: #1f0de6;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+    margin-top:-50px ;
+
+   
+  
+}
